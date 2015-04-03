@@ -385,6 +385,15 @@
 		C36FBE59181D5CCF007AE52A /* navbar_uparrow.png in Resources */ = {isa = PBXBuildFile; fileRef = C36FBE57181D5CCF007AE52A /* navbar_uparrow.png */; };
 		C36FBE5A181D5CCF007AE52A /* navbar_uparrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C36FBE58181D5CCF007AE52A /* navbar_uparrow@2x.png */; };
 		C3F3D7C518024E1A0064E1DD /* FeedItemData.m in Sources */ = {isa = PBXBuildFile; fileRef = C3F3D7C418024E1A0064E1DD /* FeedItemData.m */; };
+		FC128EBF1ACE98B700B6B161 /* Anat cou.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EB71ACE98B700B6B161 /* Anat cou.png */; };
+		FC128EC01ACE98B700B6B161 /* Anatomie coeur review.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EB81ACE98B700B6B161 /* Anatomie coeur review.png */; };
+		FC128EC11ACE98B700B6B161 /* auscultation cardiaque.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EB91ACE98B700B6B161 /* auscultation cardiaque.png */; };
+		FC128EC21ACE98B700B6B161 /* bruits du coeur.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EBA1ACE98B700B6B161 /* bruits du coeur.png */; };
+		FC128EC31ACE98B700B6B161 /* Estimation PJ.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EBB1ACE98B700B6B161 /* Estimation PJ.png */; };
+		FC128EC41ACE98B700B6B161 /* examination du coeur.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EBC1ACE98B700B6B161 /* examination du coeur.png */; };
+		FC128EC51ACE98B700B6B161 /* grades des souffles.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EBD1ACE98B700B6B161 /* grades des souffles.png */; };
+		FC128EC61ACE98B700B6B161 /* Pouls carotidien.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EBE1ACE98B700B6B161 /* Pouls carotidien.png */; };
+		FC128EC81ACE9AC200B6B161 /* 10_01_CardiovascularSystem_MP4 768Kbps_001t.png in Resources */ = {isa = PBXBuildFile; fileRef = FC128EC71ACE9AC200B6B161 /* 10_01_CardiovascularSystem_MP4 768Kbps_001t.png */; };
 		FCB847B719FE90880047D902 /* Cardiologie - Fibrilation auriculaire.pdf in Resources */ = {isa = PBXBuildFile; fileRef = FCB8478F19FE90880047D902 /* Cardiologie - Fibrilation auriculaire.pdf */; };
 		FCB847B819FE90880047D902 /* Cardiologie - Hypertension artérielle.pdf in Resources */ = {isa = PBXBuildFile; fileRef = FCB8479019FE90880047D902 /* Cardiologie - Hypertension artérielle.pdf */; };
 		FCB847B919FE90880047D902 /* Cardiovasculaire - IC chronique.pdf in Resources */ = {isa = PBXBuildFile; fileRef = FCB8479119FE90880047D902 /* Cardiovasculaire - IC chronique.pdf */; };
@@ -953,6 +962,15 @@
 		C36FBE58181D5CCF007AE52A /* navbar_uparrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navbar_uparrow@2x.png"; sourceTree = "<group>"; };
 		C3F3D7C318024E1A0064E1DD /* FeedItemData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedItemData.h; sourceTree = "<group>"; };
 		C3F3D7C418024E1A0064E1DD /* FeedItemData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedItemData.m; sourceTree = "<group>"; };
+		FC128EB71ACE98B700B6B161 /* Anat cou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Anat cou.png"; sourceTree = "<group>"; };
+		FC128EB81ACE98B700B6B161 /* Anatomie coeur review.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Anatomie coeur review.png"; sourceTree = "<group>"; };
+		FC128EB91ACE98B700B6B161 /* auscultation cardiaque.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "auscultation cardiaque.png"; sourceTree = "<group>"; };
+		FC128EBA1ACE98B700B6B161 /* bruits du coeur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bruits du coeur.png"; sourceTree = "<group>"; };
+		FC128EBB1ACE98B700B6B161 /* Estimation PJ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Estimation PJ.png"; sourceTree = "<group>"; };
+		FC128EBC1ACE98B700B6B161 /* examination du coeur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "examination du coeur.png"; sourceTree = "<group>"; };
+		FC128EBD1ACE98B700B6B161 /* grades des souffles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grades des souffles.png"; sourceTree = "<group>"; };
+		FC128EBE1ACE98B700B6B161 /* Pouls carotidien.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pouls carotidien.png"; sourceTree = "<group>"; };
+		FC128EC71ACE9AC200B6B161 /* 10_01_CardiovascularSystem_MP4 768Kbps_001t.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "10_01_CardiovascularSystem_MP4 768Kbps_001t.png"; sourceTree = "<group>"; };
 		FCB8478F19FE90880047D902 /* Cardiologie - Fibrilation auriculaire.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Cardiologie - Fibrilation auriculaire.pdf"; sourceTree = "<group>"; };
 		FCB8479019FE90880047D902 /* Cardiologie - Hypertension artérielle.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Cardiologie - Hypertension artérielle.pdf"; sourceTree = "<group>"; };
 		FCB8479119FE90880047D902 /* Cardiovasculaire - IC chronique.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Cardiovasculaire - IC chronique.pdf"; sourceTree = "<group>"; };
@@ -1403,6 +1421,7 @@
 		7592B87A1ACC91B400C87CF8 /* VideosThumbs */ = {
 			isa = PBXGroup;
 			children = (
+				FC128EB61ACE98B700B6B161 /* Cardiovasculaire */,
 				7592B8831ACC91DA00C87CF8 /* Respiratoire */,
 			);
 			name = VideosThumbs;
@@ -2183,6 +2202,22 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		FC128EB61ACE98B700B6B161 /* Cardiovasculaire */ = {
+			isa = PBXGroup;
+			children = (
+				FC128EC71ACE9AC200B6B161 /* 10_01_CardiovascularSystem_MP4 768Kbps_001t.png */,
+				FC128EB71ACE98B700B6B161 /* Anat cou.png */,
+				FC128EB81ACE98B700B6B161 /* Anatomie coeur review.png */,
+				FC128EB91ACE98B700B6B161 /* auscultation cardiaque.png */,
+				FC128EBA1ACE98B700B6B161 /* bruits du coeur.png */,
+				FC128EBB1ACE98B700B6B161 /* Estimation PJ.png */,
+				FC128EBC1ACE98B700B6B161 /* examination du coeur.png */,
+				FC128EBD1ACE98B700B6B161 /* grades des souffles.png */,
+				FC128EBE1ACE98B700B6B161 /* Pouls carotidien.png */,
+			);
+			path = Cardiovasculaire;
+			sourceTree = "<group>";
+		};
 		FCB8478E19FE90880047D902 /* Médecine interne */ = {
 			isa = PBXGroup;
 			children = (
@@ -2351,6 +2386,7 @@
 				C3080E5917FE8827008AE8CC /* menu_vbar@2x.png in Resources */,
 				75470D261A09895600563414 /* BookCover_2.png in Resources */,
 				75CE28DE19F394AC002FF80F /* Injection IM et IV.pdf in Resources */,
+				FC128EC01ACE98B700B6B161 /* Anatomie coeur review.png in Resources */,
 				75E385D819F1B236006C60FF /* test_tube-50.png in Resources */,
 				C3080E5017FE8827008AE8CC /* menu_cell_separator.png in Resources */,
 				FCB847C919FE90880047D902 /* Neurologique - Céphalées.pdf in Resources */,
@@ -2370,6 +2406,7 @@
 				75470D2E1A09895600563414 /* Color_Orange.png in Resources */,
 				75D3C93E1A17B64B003D5B57 /* MMS.pdf in Resources */,
 				75470D811A0A0D2E00563414 /* categorize-48.png in Resources */,
+				FC128EBF1ACE98B700B6B161 /* Anat cou.png in Resources */,
 				C3080F0A17FEEDF8008AE8CC /* invite_twitter@2x.png in Resources */,
 				758BDA8519FBBEDB000EBC90 /* searchB-50.png in Resources */,
 				C3080EB617FEC341008AE8CC /* setting_cell_order.png in Resources */,
@@ -2498,6 +2535,7 @@
 				75470D711A09A97C00563414 /* message-50.png in Resources */,
 				C3080E5517FE8827008AE8CC /* menu_layout_pen@2x.png in Resources */,
 				75CE28DB19F394AC002FF80F /* Urgences.pdf in Resources */,
+				FC128EC11ACE98B700B6B161 /* auscultation cardiaque.png in Resources */,
 				7524A47919E98A27006607C1 /* Share icon.png in Resources */,
 				75103A8419FD635100BD458D /* Hanche.pdf in Resources */,
 				FCB847D619FE90880047D902 /* Profil de patients - Evaluations gériatrique.pdf in Resources */,
@@ -2516,11 +2554,13 @@
 				758BDA8119FBB88B000EBC90 /* info-50.png in Resources */,
 				756124EF1A0D2C650096E2B8 /* video_camera-50.png in Resources */,
 				75470D731A09A98800563414 /* back-50.png in Resources */,
+				FC128EC51ACE98B700B6B161 /* grades des souffles.png in Resources */,
 				FCB847BA19FE90880047D902 /* Cardiovasculaire - Syncope.pdf in Resources */,
 				7537832C1A0F5F0100B716B8 /* video_camera-50-white.png in Resources */,
 				FCB847BE19FE90880047D902 /* Fibrillation auriculaire 2013.pdf in Resources */,
 				7524A47719E964E5006607C1 /* default.png in Resources */,
 				FCF6C4071A0643EC00500E60 /* Primary survey.pdf in Resources */,
+				FC128EC61ACE98B700B6B161 /* Pouls carotidien.png in Resources */,
 				C3080E8117FEA622008AE8CC /* navbar_downarrow@2x.png in Resources */,
 				FCF6C3E31A0633E100500E60 /* Semiologie2.pdf in Resources */,
 				FCF6C4031A06423C00500E60 /* VVP.pdf in Resources */,
@@ -2549,6 +2589,7 @@
 				C3080F0C17FEEDF8008AE8CC /* invite_vbar@2x.png in Resources */,
 				75470D2A1A09895600563414 /* Camera.png in Resources */,
 				C3080E8017FEA622008AE8CC /* navbar_downarrow.png in Resources */,
+				FC128EC41ACE98B700B6B161 /* examination du coeur.png in Resources */,
 				75CE28D219F394AC002FF80F /* Digestif1.pdf in Resources */,
 				75470D2B1A09895600563414 /* Color_BlackTransparent.png in Resources */,
 				C3080F0017FEEDF8008AE8CC /* invite_fb@2x.png in Resources */,
@@ -2561,6 +2602,7 @@
 				75470D311A09895600563414 /* Color_Red.png in Resources */,
 				7506807219EAFB7900EA0040 /* QuestionsHeader.xib in Resources */,
 				7506807B19EB245200EA0040 /* Mail envelope.png in Resources */,
+				FC128EC81ACE9AC200B6B161 /* 10_01_CardiovascularSystem_MP4 768Kbps_001t.png in Resources */,
 				7506808219EC661000EA0040 /* Plus_black.png in Resources */,
 				75F5C2711A30A545004D6354 /* bfa_play_flat-circle-white-on-light-gray_64x64.png in Resources */,
 				C36FBE5A181D5CCF007AE52A /* navbar_uparrow@2x.png in Resources */,
@@ -2569,6 +2611,7 @@
 				C3080EDD17FED422008AE8CC /* add_news3@2x.png in Resources */,
 				FCB847C119FE90880047D902 /* Gastro-intestinal - Dyspepsie.pdf in Resources */,
 				75CE28E719F394AC002FF80F /* Semiologie generale.pdf in Resources */,
+				FC128EC31ACE98B700B6B161 /* Estimation PJ.png in Resources */,
 				7592B8751ACC3A2400C87CF8 /* Play Filled-100.png in Resources */,
 				C3080DF717FE86B8008AE8CC /* Main.storyboard in Resources */,
 				756124EC1A0D1D2F0096E2B8 /* Carnet bleu des urgences pédiatriques 2010.pdf in Resources */,
@@ -2596,6 +2639,7 @@
 				75CE28D619F394AC002FF80F /* Loco3.pdf in Resources */,
 				7524A45919E89360006607C1 /* filesList.plist in Resources */,
 				758BDA8319FBBC28000EBC90 /* cancel-48.png in Resources */,
+				FC128EC21ACE98B700B6B161 /* bruits du coeur.png in Resources */,
 				75932D9519F2432B00D24223 /* ok-32.png in Resources */,
 				FCF6C3F51A06375600500E60 /* Rachis2.pdf in Resources */,
 				75CE28D819F394AC002FF80F /* Neuro2.pdf in Resources */,

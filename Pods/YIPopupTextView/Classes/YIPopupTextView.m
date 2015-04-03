@@ -19,7 +19,7 @@
 #endif
 
 #define TEXTVIEW_INSETS     (IS_IPAD ? UIEdgeInsetsMake(30, 30, 30, 30) : UIEdgeInsetsMake(15, 15, 15, 15))
-#define TEXT_SIZE           (IS_IPAD ? 22 : 16)
+#define TEXT_SIZE           (IS_IPAD ? 32 : 16)
 #define COUNT_SIZE          (IS_IPAD ? 32 : 16)
 #define COUNT_MARGIN        (IS_IPAD ? 20 : 10)
 #define CLOSE_IMAGE_WIDTH   (IS_IPAD ? 60 : 30)
@@ -236,7 +236,7 @@ typedef enum {
         self.keyboardAppearance = UIKeyboardAppearanceAlert;
         self.autocorrectionType = UITextAutocorrectionTypeNo;
         self.autocapitalizationType = UITextAutocapitalizationTypeNone;
-        self.layer.cornerRadius = 0;
+        self.layer.cornerRadius = 10;
         self.backgroundColor = [UIColor whiteColor];
         [_popupView addSubview:self];
         
@@ -296,7 +296,7 @@ typedef enum {
             buttonStyle == YIPopupTextViewButtonStyleRightCancelAndDone) {
             
             if (!doneButtonColor) {
-                doneButtonColor = [UIColor redColor];//[UIColor colorWithRed:68.0/255.0 green:153.0/255.0 blue:34.0/255.0 alpha:1]; // #449922
+                doneButtonColor = [UIColor colorWithRed:68.0/255.0 green:153.0/255.0 blue:34.0/255.0 alpha:1]; // #449922
             }
             
             _acceptButton = [UIButton buttonWithType:UIButtonTypeCustom];
@@ -394,14 +394,9 @@ typedef enum {
         frame = view.bounds;
     }
     
-    CGRect rect = CGRectMake(30, 40, targetView.frame.size.width-60, 350);
-    
     _backgroundView.alpha = 0;
-    _backgroundView.frame = rect;
-    _backgroundView.center = CGPointMake(_backgroundView.center.x, _backgroundView.center.y);
-    _backgroundView.backgroundColor = [UIColor clearColor];
+    _backgroundView.frame = frame;
     [targetView addSubview:_backgroundView];
-    
     
     [self updateCount];
     

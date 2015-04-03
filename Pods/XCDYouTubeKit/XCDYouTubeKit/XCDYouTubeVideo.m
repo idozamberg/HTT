@@ -99,8 +99,6 @@ NSString *XCDQueryStringWithDictionary(NSDictionary *dictionary, NSStringEncodin
 		if (httpLiveStream)
 			streamURLs[XCDYouTubeVideoQualityHTTPLiveStreaming] = [NSURL URLWithString:httpLiveStream];
 		
-        
-        
 		for (NSString *streamQuery in streamQueries)
 		{
 			NSDictionary *stream = XCDDictionaryWithQueryString(streamQuery, NSUTF8StringEncoding);

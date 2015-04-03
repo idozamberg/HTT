@@ -37,6 +37,81 @@
 			<string>09_05_ExaminingAnteriorThorax_MP4 768Kbpst.png</string>
 		</dict>
 	</array>
+	<key>Cardiovasculaire</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091060</string>
+			<key>Description</key>
+			<string>Examen complet</string>
+			<key>Thumb</key>
+			<string>10_01_CardiovascularSystem_MP4 768Kbps_001t.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091268</string>
+			<key>Description</key>
+			<string>Rappel Anatomie Vasculaire du Cou</string>
+			<key>Thumb</key>
+			<string>Anat cou.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091270</string>
+			<key>Description</key>
+			<string>Estimation Pression Jugulaire Veineuse</string>
+			<key>Thumb</key>
+			<string>Estimation PJ.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091272</string>
+			<key>Description</key>
+			<string>Pouls carotidien</string>
+			<key>Thumb</key>
+			<string>Pouls carotidien.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091274</string>
+			<key>Description</key>
+			<string>Rappel d&apos;Anatomie Cardiaque</string>
+			<key>Thumb</key>
+			<string>Anatomie coeur review.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091276</string>
+			<key>Description</key>
+			<string>Examination du coeur</string>
+			<key>Thumb</key>
+			<string>examination du coeur.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091278</string>
+			<key>Description</key>
+			<string>Bruits cardiaques</string>
+			<key>Thumb</key>
+			<string>bruits du coeur.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091280</string>
+			<key>Description</key>
+			<string>Auscultation des bruits cardiaques</string>
+			<key>Thumb</key>
+			<string>auscultation cardiaque.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091282</string>
+			<key>Description</key>
+			<string>Evalutation des Souffles Cardiaques</string>
+			<key>Thumb</key>
+			<string>grades des souffles.png</string>
+		</dict>
+	</array>
 	<key>Urgences</key>
 	<array>
 		<dict>
@@ -62,63 +137,6 @@
 			<string>hHHy1mc7sqY</string>
 			<key>Description</key>
 			<string>Pose d&apos;un collier cervical</string>
-		</dict>
-	</array>
-	<key>Cardiovasculaire</key>
-	<array>
-		<dict>
-			<key>Name</key>
-			<string>Hrzlky-Nt1I</string>
-			<key>Description</key>
-			<string>Inspection</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>9z48vDNuiPE</string>
-			<key>Description</key>
-			<string>Palpation et percussion</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>SFfRhP8nu8w</string>
-			<key>Description</key>
-			<string>Auscultation normale</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>FTsOl5-X7-k</string>
-			<key>Description</key>
-			<string>Auscultation pathologique</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>Hjk01LmNujM</string>
-			<key>Description</key>
-			<string>Auscultation pathologique 2</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>mEAUiLYpdIA</string>
-			<key>Description</key>
-			<string>Souffles Cardiaques</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>SJ3UwKkLyy0</string>
-			<key>Description</key>
-			<string>Examen cardiovasculaire OSCE</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>5HlQfw5PWUM</string>
-			<key>Description</key>
-			<string>Reflux Hépato-Jugulaire</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>KoNts7ArgkM</string>
-			<key>Description</key>
-			<string>Examen vasculaire OSCE</string>
 		</dict>
 	</array>
 	<key>Neurologique</key>
