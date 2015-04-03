@@ -37,7 +37,9 @@
 			<string>09_05_ExaminingAnteriorThorax_MP4 768Kbpst.png</string>
 		</dict>
 	</array>
+<<<<<<< HEAD
 	<key>Cardiovasculaire</key>
+=======
 	<key>Dermatologie</key>
 	<array>
 		<dict>
@@ -74,6 +76,7 @@
 		</dict>
 	</array>
 	<key>Urgences</key>
+>>>>>>> bf043a5955034f62466135fe293e7d943b3e154c
 	<array>
 		<dict>
 			<key>Name</key>

@@ -269,10 +269,6 @@
 		75E385D019EFCD60006C60FF /* PDFManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 75E385CF19EFCD60006C60FF /* PDFManager.m */; };
 		75E385D819F1B236006C60FF /* test_tube-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 75E385D719F1B236006C60FF /* test_tube-50.png */; };
 		75F57E791ACC2B83008C649B /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 75F57E781ACC2B83008C649B /* WebKit.framework */; };
-		75F590001ACE97AA00398BE8 /* 06_03_AnatomyReview_MP4 768Kbpst.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F58FFD1ACE97AA00398BE8 /* 06_03_AnatomyReview_MP4 768Kbpst.png */; };
-		75F590011ACE97AA00398BE8 /* 06_04_ExamingTheSkin_MP4 768Kbpst.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F58FFE1ACE97AA00398BE8 /* 06_04_ExamingTheSkin_MP4 768Kbpst.png */; };
-		75F590021ACE97AA00398BE8 /* 06_05_ExaminingHairNails_MP4 768Kbpst.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F58FFF1ACE97AA00398BE8 /* 06_05_ExaminingHairNails_MP4 768Kbpst.png */; };
-		75F590041ACE9ABA00398BE8 /* 06_01_Skin_MP4 768Kbpst.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F590031ACE9ABA00398BE8 /* 06_01_Skin_MP4 768Kbpst.png */; };
 		75F5C2711A30A545004D6354 /* bfa_play_flat-circle-white-on-light-gray_64x64.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F5C2701A30A545004D6354 /* bfa_play_flat-circle-white-on-light-gray_64x64.png */; };
 		75F5C2731A30A65B004D6354 /* foundation_play-circle_simple-white_64x64.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F5C2721A30A65B004D6354 /* foundation_play-circle_simple-white_64x64.png */; };
 		75F5C2751A30A6FB004D6354 /* foundation_play-circle_simple-white_128x128.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F5C2741A30A6FB004D6354 /* foundation_play-circle_simple-white_128x128.png */; };
@@ -814,10 +810,6 @@
 		75E385CF19EFCD60006C60FF /* PDFManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDFManager.m; sourceTree = "<group>"; };
 		75E385D719F1B236006C60FF /* test_tube-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "test_tube-50.png"; sourceTree = "<group>"; };
 		75F57E781ACC2B83008C649B /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
-		75F58FFD1ACE97AA00398BE8 /* 06_03_AnatomyReview_MP4 768Kbpst.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "06_03_AnatomyReview_MP4 768Kbpst.png"; sourceTree = "<group>"; };
-		75F58FFE1ACE97AA00398BE8 /* 06_04_ExamingTheSkin_MP4 768Kbpst.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "06_04_ExamingTheSkin_MP4 768Kbpst.png"; sourceTree = "<group>"; };
-		75F58FFF1ACE97AA00398BE8 /* 06_05_ExaminingHairNails_MP4 768Kbpst.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "06_05_ExaminingHairNails_MP4 768Kbpst.png"; sourceTree = "<group>"; };
-		75F590031ACE9ABA00398BE8 /* 06_01_Skin_MP4 768Kbpst.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "06_01_Skin_MP4 768Kbpst.png"; sourceTree = "<group>"; };
 		75F5C2701A30A545004D6354 /* bfa_play_flat-circle-white-on-light-gray_64x64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bfa_play_flat-circle-white-on-light-gray_64x64.png"; sourceTree = "<group>"; };
 		75F5C2721A30A65B004D6354 /* foundation_play-circle_simple-white_64x64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "foundation_play-circle_simple-white_64x64.png"; sourceTree = "<group>"; };
 		75F5C2741A30A6FB004D6354 /* foundation_play-circle_simple-white_128x128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "foundation_play-circle_simple-white_128x128.png"; sourceTree = "<group>"; };
@@ -1429,11 +1421,7 @@
 		7592B87A1ACC91B400C87CF8 /* VideosThumbs */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
 				FC128EB61ACE98B700B6B161 /* Cardiovasculaire */,
-=======
-				75F58FFC1ACE97AA00398BE8 /* Dermatologie */,
->>>>>>> bf043a5955034f62466135fe293e7d943b3e154c
 				7592B8831ACC91DA00C87CF8 /* Respiratoire */,
 			);
 			name = VideosThumbs;
@@ -1769,18 +1757,6 @@
 				75E3858E19EFCC94006C60FF /* xml.c */,
 			);
 			path = OCPDFGen;
-			sourceTree = "<group>";
-		};
-		75F58FFC1ACE97AA00398BE8 /* Dermatologie */ = {
-			isa = PBXGroup;
-			children = (
-				75F590031ACE9ABA00398BE8 /* 06_01_Skin_MP4 768Kbpst.png */,
-				75F58FFD1ACE97AA00398BE8 /* 06_03_AnatomyReview_MP4 768Kbpst.png */,
-				75F58FFE1ACE97AA00398BE8 /* 06_04_ExamingTheSkin_MP4 768Kbpst.png */,
-				75F58FFF1ACE97AA00398BE8 /* 06_05_ExaminingHairNails_MP4 768Kbpst.png */,
-			);
-			name = Dermatologie;
-			path = DERMATO;
 			sourceTree = "<group>";
 		};
 		C3080DD717FE86B8008AE8CC = {
@@ -2384,7 +2360,6 @@
 				C36FBE59181D5CCF007AE52A /* navbar_uparrow.png in Resources */,
 				FCB847D819FE90880047D902 /* Psychiatrique - Dépression.pdf in Resources */,
 				75CE28C819F394AC002FF80F /* Cahier TP Lymph.pdf in Resources */,
-				75F590011ACE97AA00398BE8 /* 06_04_ExamingTheSkin_MP4 768Kbpst.png in Resources */,
 				C3080F0117FEEDF8008AE8CC /* invite_fb_cursor.png in Resources */,
 				75CE28EA19F394AC002FF80F /* Secondary survey.pdf in Resources */,
 				75CE28D719F394AC002FF80F /* Neuro1.pdf in Resources */,
@@ -2556,7 +2531,6 @@
 				FCF6C4061A0643EC00500E60 /* BLS.pdf in Resources */,
 				75470D771A09A9BA00563414 /* settings-50.png in Resources */,
 				75470D371A09895600563414 /* Mark_Bookmark_S.png in Resources */,
-				75F590021ACE97AA00398BE8 /* 06_05_ExaminingHairNails_MP4 768Kbpst.png in Resources */,
 				FCB847D319FE90880047D902 /* Pharmacologique - Douleur aigue.pdf in Resources */,
 				75470D711A09A97C00563414 /* message-50.png in Resources */,
 				C3080E5517FE8827008AE8CC /* menu_layout_pen@2x.png in Resources */,
@@ -2643,7 +2617,6 @@
 				756124EC1A0D1D2F0096E2B8 /* Carnet bleu des urgences pédiatriques 2010.pdf in Resources */,
 				75470D291A09895600563414 /* Brightness.png in Resources */,
 				FCB847CB19FE90880047D902 /* Ophtalmologique - Oeil rouge.pdf in Resources */,
-				75F590001ACE97AA00398BE8 /* 06_03_AnatomyReview_MP4 768Kbpst.png in Resources */,
 				75470D2C1A09895600563414 /* Color_Blue.png in Resources */,
 				75C9231F19EA90DF0005CA31 /* entree.plist in Resources */,
 				75470D441A09895600563414 /* UnSelectedDone_Port_iPhone.png in Resources */,
@@ -2678,7 +2651,6 @@
 				FCB847CE19FE90880047D902 /* ORL-Pneumo - IVRS.pdf in Resources */,
 				75D869AB19F9073400F53AF1 /* checkmark-50.png in Resources */,
 				75470D341A09895600563414 /* Color_Yellow.png in Resources */,
-				75F590041ACE9ABA00398BE8 /* 06_01_Skin_MP4 768Kbpst.png in Resources */,
 				75470D391A09895600563414 /* MultiPage.png in Resources */,
 				FCB847BB19FE90880047D902 /* Cardiovasculaire - Thrombose veineuse.pdf in Resources */,
 				C3080E8517FEA622008AE8CC /* navbar_search@2x.png in Resources */,

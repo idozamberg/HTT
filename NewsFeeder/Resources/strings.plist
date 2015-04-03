@@ -60,6 +60,8 @@
 		<string>Urgences</string>
 		<key>CELL_ROW12</key>
 		<string>Pediatrie</string>
+		<key>CELL_ROW13</key>
+		<string>Dermatologie</string>
 	</dict>
 	<key>SCREEN_SEARCH</key>
 	<dict>
